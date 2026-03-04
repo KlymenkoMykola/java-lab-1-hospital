@@ -1,0 +1,7 @@
+model\hospital\DefaultFileHandler.class
+model\hospital\Hospital.class
+model\hospital\Doctor.class
+model\hospital\Specialization.class
+model\hospital\DataExporter.class
+model\hospital\FileHandler.class
+model\hospital\Patient.class
